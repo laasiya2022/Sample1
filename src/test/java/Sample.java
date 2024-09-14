@@ -12,4 +12,15 @@ private void method3() {
 	System.out.println("method1");
 
 }
+private void method4() {
+	System.out.println("method1");
+
+}private void method5() {
+	System.out.println("method1");
+
+}
+private void method6() {
+	System.out.println("method1");
+
+}
 }
